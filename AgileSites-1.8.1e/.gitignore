@@ -1,0 +1,24 @@
+build.sbt
+*.build
+*.class
+*.log
+*.bak
+.history
+.DS_Store
+.cache
+.classpath
+.project
+.settings/
+.metadata
+report.xml
+run.bat
+run.sh
+# sbt specific
+target/
+project/boot/
+project/repo/
+project/ivy2/
+project/plugins/project/
+doc/temp/
+tomcat.sh
+tomcat.bat
